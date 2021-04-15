@@ -17,5 +17,4 @@ Año 2021
 Legajo:
 1776228
 
-Compilador:
-MinGW
+
