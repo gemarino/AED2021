@@ -12,7 +12,7 @@ Curso:
 K1051
 
 Cursada:
-Año 2021
+Año 2022
 
 Legajo:
 1776228
