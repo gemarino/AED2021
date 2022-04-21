@@ -1,2 +1,1 @@
-Compilador:
-MinGW
+El compilador utilizado es MinGW
